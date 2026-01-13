@@ -1,4 +1,4 @@
-# How to auto-generate columns for custom type properties in WinUI DataGrid
+# How to Auto-Generate Columns for Custom Type Properties in WinUI DataGrid?
 
 This example describes how to auto-generate columns for custom type properties in [WinUI DataGrid](https://www.syncfusion.com/winui-controls/datagrid) (SfDataGrid).
 
